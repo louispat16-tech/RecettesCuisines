@@ -5,7 +5,7 @@ body {
 /* Style général pour nos liens-boutons */
 div a {
     display: inline-block;
-    padding: 20px 35px;
+    padding: 20px 60px;
     margin: 5px;
     background-color: #ff6b6b; /* Une jolie couleur de fond */
     color: white;              /* Texte en blanc */
