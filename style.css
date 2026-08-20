@@ -2,3 +2,19 @@ body {
     background-color: #f4f4f4;
     text-align: center;
 }
+/* Style général pour nos liens-boutons */
+div a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #ff6b6b; /* Une jolie couleur de fond */
+    color: white;              /* Texte en blanc */
+    text-decoration: none;     /* Enlève le soulignement moche des liens */
+    border-radius: 5px;        /* Arrondit les coins */
+    font-weight: bold;
+}
+
+/* Effet quand on passe la souris dessus */
+div a:hover {
+    background-color: #ee5253; /* Une couleur un peu plus foncée au survol */
+}
